@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JanHafner.Timewindow", "JanHafner.Timewindow\JanHafner.Timewindow.csproj", "{95979E7C-FA24-427B-87A2-A844FE54BF02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JanHafner.Timewindow.Tests", "JanHafner.Timewindow.Tests\JanHafner.Timewindow.Tests.csproj", "{FFA22D90-95CE-4D78-B660-4F4E739483B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95979E7C-FA24-427B-87A2-A844FE54BF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95979E7C-FA24-427B-87A2-A844FE54BF02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95979E7C-FA24-427B-87A2-A844FE54BF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95979E7C-FA24-427B-87A2-A844FE54BF02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFA22D90-95CE-4D78-B660-4F4E739483B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA22D90-95CE-4D78-B660-4F4E739483B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA22D90-95CE-4D78-B660-4F4E739483B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA22D90-95CE-4D78-B660-4F4E739483B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5C1D5C2-EC40-4815-ABA8-A451D4D292AB}
+	EndGlobalSection
+EndGlobal
